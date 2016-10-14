@@ -33,4 +33,19 @@ print(s.pop())
 print(s.pop())
 print(s.size())
 
+"""
+------
+Output:
+
+Pooshans-MacBook-Pro:Algorithms & Data Structures Pooshan$ python3 stack-simple.py 
+True
+4
+3
+False
+8.4
+True
+2
+Pooshans-MacBook-Pro:Algorithms & Data Structures Pooshan$ 
+-------
+"""
 
